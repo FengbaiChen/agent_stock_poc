@@ -1,0 +1,4 @@
+fastmcp
+yfinance
+autogen-core
+requests
